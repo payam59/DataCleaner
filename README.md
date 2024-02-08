@@ -1,4 +1,3 @@
-```markdown
 # DataCleaner
 
 `DataCleaner` is a Python script designed to clean text files by removing emojis and filtering out lines with fewer words than a specified threshold. This tool is particularly useful for preprocessing text data for analysis, ensuring that the input files are free of non-text elements and adhere to a minimum verbosity level.
